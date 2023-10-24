@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506622150426",
+    "project_id": "taskmanagementwithpriority",
+    "storage_bucket": "taskmanagementwithpriority.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506622150426:android:2169cf6c3796e85b038ea3",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagementwithpriorityfirbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJLX2_k_1GhwoNDW5Bt6Z_qNhj34L1ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
